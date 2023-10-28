@@ -1,0 +1,3 @@
+/home/legion/Desktop/food-manager-ocr/cmake-build-debug/CMakeFiles/ReceiptOCR.dir
+/home/legion/Desktop/food-manager-ocr/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/legion/Desktop/food-manager-ocr/cmake-build-debug/CMakeFiles/rebuild_cache.dir

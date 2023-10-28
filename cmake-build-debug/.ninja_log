@@ -1,0 +1,4 @@
+# ninja log v5
+1	6800	1698505265537874231	CMakeFiles/ReceiptOCR.dir/main.cpp.o	54c4fbae39362990
+6800	6951	1698505265697879765	ReceiptOCR	8ae7c417c4146efd
+1	243	1698500541596917436	CMakeFiles/ReceiptOCR.dir/string/titlecase.cpp.o	61de50f3487b0af9
